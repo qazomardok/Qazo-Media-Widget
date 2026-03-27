@@ -1,16 +1,1 @@
-# Qazo Media Widget
-
-An informative media widget built with C# and WinUI.
-
-## Features
-- Interactive media control
-- - Sleek modern UI using WinUI
-  - - Lightweight and efficient
-   
-    - ## Installation
-    - Download the latest executable from the [Releases](https://github.com/qazomardok/Qazo-Media-Widget/releases) page.
-   
-    - ## Usage
-    - Simply run MediaWidgetWinUI.exe to start the widget.
-    - 
- 
+<img width="510" height="338" alt="image" src="https://github.com/user-attachments/assets/77217803-1254-48e6-83b1-5bb804dab7b6" />

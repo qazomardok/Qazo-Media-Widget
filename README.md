@@ -13,3 +13,4 @@ An informative media widget built with C# and WinUI.
     - ## Usage
     - Simply run MediaWidgetWinUI.exe to start the widget.
     - 
+ 

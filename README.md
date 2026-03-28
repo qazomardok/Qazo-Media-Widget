@@ -11,10 +11,10 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <i><img width="218" height="47" alt="image" src="https://github.com/user-attachments/assets/19ed2edf-0b83-4de2-a658-b80c4268b332" /></i>
+        <i><img width="129" height="46" alt="image" src="https://github.com/user-attachments/assets/74b638ca-04f7-4c90-9fe6-855a015a72ba" /></i>
       </td>
       <td align="center" width="50%">
-        <i><img width="129" height="46" alt="image" src="https://github.com/user-attachments/assets/74b638ca-04f7-4c90-9fe6-855a015a72ba" /></i>
+        <i><img width="218" height="47" alt="image" src="https://github.com/user-attachments/assets/19ed2edf-0b83-4de2-a658-b80c4268b332" /></i>
       </td>
     </tr>
   </table>
